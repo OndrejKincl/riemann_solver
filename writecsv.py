@@ -4,13 +4,13 @@ import csv
 def main():
     # Left State
     rho_L = 1.0
-    vx_L  = 0.0
+    vx_L  = -1.0
     P_L   = 1.0
 
 	# Right State
-    rho_R = 0.125
-    vx_R  = 0.0
-    P_R   = 0.1
+    rho_R = 1.0
+    vx_R  = 1.0
+    P_R   = 1.0
 
 	# ideal gas gamma
     gamma = 5./3. 
