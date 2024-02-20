@@ -14,4 +14,4 @@ Solver the Riemann problem for the Euler equations. Method can be coupled to fin
 python riemann-solver-spectral.py
 ```
 
-![Simulation](./riemann-solver.png)
+![Simulation](./riemann_solver.png)

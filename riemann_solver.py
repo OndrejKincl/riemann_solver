@@ -398,7 +398,7 @@ def main():
 	sl_gamma.on_changed(update)
 	
 	# Save figure
-	plt.savefig('riemann-solver.png',dpi=240)
+	plt.savefig('riemann_solver.png',dpi=240)
 	plt.show()
 	
 	return 0
